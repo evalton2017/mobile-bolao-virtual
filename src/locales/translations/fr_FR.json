@@ -1,0 +1,77 @@
+{
+    "navigation":{
+        "login":"Connexion",
+        "cadastro":"S'inscrire",
+        "home":"Domicile",
+        "redefinir_senha":"Redéfinir le mot de passe",
+        "loading":"Chargement en cours"
+    },
+    "home": {
+        "nav_login":"Connexion",
+        "nav_cadastro":"S'inscrire",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redéfinir le mot de passe",
+        "nav_loading":"loading",
+        "nav_jogo":"game",
+        "nav_pagamento":"payment"
+    },
+    "login": {
+        "response_usuario_invalido": "Nom d'utilisateur ou mot de passe invalide.",
+        "erro_sincrinizar_conta": "Erreur de synchronisation avec le compte.",
+        "bt_acessar": "Accès",
+        "bt_cadastrar": "S'inscrire",
+        "bt_acessar_google": "Accès avec Google",
+        "placeholder_email_usuario": "Email de l'utilisateur ",
+        "placeholder_senha_usuario": "Mot de passe de l'utilisateur",
+        "bt_redefinir_senha": "Redéfinir le mot de passe",
+        "ususario_obrigatorio": "Le nom d'utilisateur et le mot de passe sont requis",
+        "nav_login":"Connexion",
+        "nav_cadastro":"S'inscrire",
+        "nav_home":"Domicile",
+        "nav_redefinir_senha":"Redéfinir le mot de passe",
+        "nav_loading":"Chargement en cours"
+    },
+    "cadastro":{
+        "nm_usuario":"Nom d'utilisateur ",
+        "email_usuario": "Courriel de l'utilisateur",
+        "senha_usuario": "Mot de passe de l'utilisateur",
+        "erro_nm_obrigatorio": "Champs obligatoires non renseignés",
+        "email_invalido": "Email invalide!",
+        "sucesso_cadastro": "Inscription réussi!!",
+        "erro_cadastro": "Erreur lors de l'inscription !!",
+        "bt_cadastrar": "S'inscrire",
+        "nav_login":"Connexion"
+    },
+    "redefinir_senha":{
+        "nm_usuario":"Nom d'utilisateur ",
+        "email_usuario": "Courriel de l'utilisateur",
+        "senha_usuario": "Mot de passe de l'utilisateur",
+        "erro_nm_obrigatorio": "Champs obligatoires non renseignés",
+        "email_invalido": "Email invalide!",
+        "sucesso_cadastro": "Inscription réussi!!",
+        "erro_cadastro": "Erreur lors de l'inscription !!",
+        "bt_cadastrar": "S'inscrire",
+        "bt_redefinir_senha":"Réinitialiser le mot de passe",
+        "msg_encaminhada":"Réinitialiser transféré à l'e-mail",
+        "mg_erro_red_email": "Erreur lors de la demande de réinitialisation de l'e-mail !",
+        "nav_login":"Connexion"
+    },
+    "apostar": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_loading":"loading",
+        "nav_jogo":"jogo",
+        "nav_pagamento":"pagamento"   
+    },
+    "pagamento": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_jogo":"jogo",
+        "nav_pagamento":"pagamento" 
+
+    }
+}

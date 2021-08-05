@@ -1,0 +1,76 @@
+{
+    "navigation":{
+        "login":"Login",
+        "cadastro":"Register",
+        "home":"Home",
+        "redefinir_senha":"Redefine password",
+        "loading":"loading"
+    },
+    "home": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_loading":"loading",
+        "nav_jogo":"game",
+        "nav_pagamento":"payment"
+    },
+    "login": {
+        "response_usuario_invalido": "Username or password invalid.",
+        "erro_sincrinizar_conta": "Error syncing with account.",
+        "bt_acessar": "Access",
+        "bt_cadastrar": "Register",
+        "bt_acessar_google": "Access with Google",
+        "placeholder_email_usuario": "User email",
+        "placeholder_senha_usuario": "Username",
+        "bt_redefinir_senha": "Password Recover",
+        "ususario_obrigatorio": "Username and password are required",
+        "nav_login":"Login",
+        "nav_cadastro":"Register",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefine password",
+        "nav_loading":"loading"
+    },
+    "cadastro":{
+        "nm_usuario":"Username  ",
+        "email_usuario": "User's Email",
+        "senha_usuario": " User password",
+        "erro_nm_obrigatorio": "Mandatory fields not filled in",
+        "email_invalido": "Invalid email!",
+        "sucesso_cadastro": "Registration successful!!",
+        "erro_cadastro": "Error when registering!!",
+        "bt_cadastrar": "Register"
+    },
+    "redefinir_senha":{
+        "nm_usuario":"Username  ",
+        "email_usuario": "User's Email",
+        "senha_usuario": " User password",
+        "erro_nm_obrigatorio": "Mandatory fields not filled in",
+        "email_invalido": "Invalid email!",
+        "sucesso_cadastro": "Registration successful!!",
+        "erro_cadastro": "Error when registering!!",
+        "bt_cadastrar": "Register",
+        "bt_redefinir_senha":"Reset password",
+        "msg_encaminhada":"Reset forwarded to email",
+        "mg_erro_red_email": "Error requesting email reset!!",
+        "nav_login":"Login"
+    },
+    "apostar": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_loading":"loading",
+        "nav_jogo":"jogo",
+        "nav_pagamento":"pagamento"   
+    },
+    "pagamento": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_jogo":"jogo",
+        "nav_pagamento":"pagamento" 
+
+    }
+}

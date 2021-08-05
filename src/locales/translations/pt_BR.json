@@ -1,0 +1,77 @@
+{
+    "navigation":{
+        "login":"Login",
+        "cadastro":"Cadastro",
+        "home":"Home",
+        "redefinir_senha":"Redefinir Senha",
+        "loading":"loading"
+    },
+    "home": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_loading":"loading",
+        "nav_jogo":"apostar",
+        "nav_pagamento":"pagamento"
+    },
+    "login": {
+        "response_usuario_invalido": "Usuario ou senha invalido.",
+        "erro_sincrinizar_conta": "Erro ao sincronizar com a conta.",
+        "bt_acessar": "Acessar",
+        "bt_cadastrar": "Cadastrar",
+        "bt_acessar_google": "Acessar com Google",
+        "placeholder_email_usuario": "Email do usuario ",
+        "placeholder_senha_usuario": "Senha do usuario",
+        "bt_redefinir_senha": "Redefinir Senha",
+        "ususario_obrigatorio": "Usuario e senha são obrigatórios",
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_loading":"loading"
+    },
+    "cadastro":{
+        "nm_usuario":"Nome do usuario ",
+        "email_usuario": "Email do Ususario",
+        "senha_usuario": "Senha do usuario",
+        "erro_nm_obrigatorio": "Campos obrigátorios não preenchidos",
+        "email_invalido": "Email invalido!",
+        "sucesso_cadastro": "Cadastro realizado com sucesso!!",
+        "erro_cadastro": "Erro ao realizar o cadastro!!",
+        "nav_login":"Login",
+        "bt_cadastrar": "Cadastrar"
+    },
+    "redefinir_senha":{
+        "nm_usuario":"Nome do usuario ",
+        "email_usuario": "Email do Ususario",
+        "senha_usuario": "Senha do usuario",
+        "erro_nm_obrigatorio": "Campos obrigátorios não preenchidos",
+        "email_invalido": "Email invalido!",
+        "sucesso_cadastro": "Cadastro realizado com sucesso!!",
+        "erro_cadastro": "Erro ao realizar o cadastro!!",
+        "bt_cadastrar": "Cadastrar",
+        "bt_redefinir_senha":"Redefinir senha",
+        "msg_encaminhada":"Redefinição encaminhada para o email",
+        "mg_erro_red_email": "Erro ao solicitar a redefinição de email!!",
+        "nav_login":"Login"
+    },
+    "apostar": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_loading":"loading",
+        "nav_jogo":"jogo",
+        "nav_pagamento":"pagamento"   
+    },
+    "pagamento": {
+        "nav_login":"Login",
+        "nav_cadastro":"Cadastro",
+        "nav_home":"Home",
+        "nav_redefinir_senha":"Redefinir Senha",
+        "nav_jogo":"jogo",
+        "nav_pagamento":"pagamento" 
+
+    }
+}
