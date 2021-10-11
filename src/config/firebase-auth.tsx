@@ -32,7 +32,7 @@ class Auth {
         callback(user);
       });
     } catch (error) {
-      return error.message;
+      return error;
     }
   }
 

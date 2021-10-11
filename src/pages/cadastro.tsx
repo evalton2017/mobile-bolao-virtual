@@ -18,10 +18,9 @@ export const URL = Platform.OS === 'android' ?
 
 class CadastroPage extends React.Component<IProps, any> {
     
-
     constructor(props: any) {
         super(props);
-
+        console.log(`${envs.APP_API_URL_LOCAL}`);
         this.state = {
             nome: '',
             email: '',
@@ -39,6 +38,8 @@ class CadastroPage extends React.Component<IProps, any> {
 
     cadastrar() {
         this.setState({ isLoad: true })
+        console.log(URL)
+
         try {
             let user = this.state;
             if ((user.email == '') || (user.nome == '') || (user.password == '')) {
